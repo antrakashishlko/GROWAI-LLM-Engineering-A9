@@ -120,7 +120,7 @@ The project evaluates GraphRAG using five questions:
 2. Which Tesla vehicles are produced at Gigafactory Shanghai?
 3. Which products are produced at Gigafactory Nevada?
 4. Which vehicles or products are produced at Fremont Factory in California?
-5. Which organization did Tesla acquire in 2016, and how did the acquisition connect Tesla to solar energy?
+5. Which organization did Tesla acquire in 2016 and how did the acquisition connect Tesla to solar energy?
    
 The same questions are used to compare Pure Vector RAG and GraphRAG.
 
