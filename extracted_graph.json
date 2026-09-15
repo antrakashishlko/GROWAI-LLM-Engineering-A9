@@ -1,0 +1,347 @@
+{
+    "entities": [
+        {
+            "name": "Tesla",
+            "type": "Organization"
+        },
+        {
+            "name": "Tesla's first Gigafactory",
+            "type": "Organization"
+        },
+        {
+            "name": "Tesla Semi",
+            "type": "Concept"
+        },
+        {
+            "name": "Nevada",
+            "type": "Location"
+        },
+        {
+            "name": "Gigafactory New York",
+            "type": "Location"
+        },
+        {
+            "name": "Buffalo, New York",
+            "type": "Location"
+        },
+        {
+            "name": "Gigafactory Shanghai",
+            "type": "Location"
+        },
+        {
+            "name": "Shanghai, China",
+            "type": "Location"
+        },
+        {
+            "name": "Austin, Texas",
+            "type": "Location"
+        },
+        {
+            "name": "Gigafactory Berlin-Brandenburg",
+            "type": "Location"
+        },
+        {
+            "name": "Germany",
+            "type": "Location"
+        },
+        {
+            "name": "Model S",
+            "type": "Concept"
+        },
+        {
+            "name": "Model X",
+            "type": "Concept"
+        },
+        {
+            "name": "Model 3",
+            "type": "Concept"
+        },
+        {
+            "name": "Model Y",
+            "type": "Concept"
+        },
+        {
+            "name": "Cybertruck",
+            "type": "Concept"
+        },
+        {
+            "name": "Powerwall",
+            "type": "Concept"
+        },
+        {
+            "name": "Powerpack",
+            "type": "Concept"
+        },
+        {
+            "name": "Megapack",
+            "type": "Concept"
+        },
+        {
+            "name": "Solar Roof",
+            "type": "Concept"
+        },
+        {
+            "name": "Elon Musk",
+            "type": "Person"
+        },
+        {
+            "name": "SolarCity",
+            "type": "Organization"
+        },
+        {
+            "name": "Gigafactory Texas",
+            "type": "Location"
+        },
+        {
+            "name": "Austin",
+            "type": "Location"
+        },
+        {
+            "name": "SpaceX",
+            "type": "Organization"
+        },
+        {
+            "name": "Neuralink",
+            "type": "Organization"
+        },
+        {
+            "name": "The Boring Company",
+            "type": "Organization"
+        },
+        {
+            "name": "Fremont Factory",
+            "type": "Location"
+        },
+        {
+            "name": "Gigafactory Nevada",
+            "type": "Location"
+        },
+        {
+            "name": "Fremont",
+            "type": "Location"
+        },
+        {
+            "name": "California",
+            "type": "Location"
+        },
+        {
+            "name": "New York",
+            "type": "Location"
+        },
+        {
+            "name": "Shanghai",
+            "type": "Location"
+        },
+        {
+            "name": "China",
+            "type": "Location"
+        },
+        {
+            "name": "Texas",
+            "type": "Location"
+        },
+        {
+            "name": "Berlin-Brandenburg",
+            "type": "Location"
+        },
+        {
+            "name": "Roadster",
+            "type": "Concept"
+        },
+        {
+            "name": "Tesla Optimus",
+            "type": "Concept"
+        },
+        {
+            "name": "Solar Roof products",
+            "type": "Concept"
+        },
+        {
+            "name": "Solar Panels",
+            "type": "Concept"
+        },
+        {
+            "name": "Electrical Components",
+            "type": "Concept"
+        },
+        {
+            "name": "Electric Motors",
+            "type": "Concept"
+        },
+        {
+            "name": "Powertrains",
+            "type": "Concept"
+        },
+        {
+            "name": "Vehicle Batteries",
+            "type": "Concept"
+        }
+    ],
+    "relationships": [
+        {
+            "source": "Elon Musk",
+            "relationship": "LEADS",
+            "target": "Tesla"
+        },
+        {
+            "source": "Elon Musk",
+            "relationship": "LEADS",
+            "target": "SpaceX"
+        },
+        {
+            "source": "Elon Musk",
+            "relationship": "LEADS",
+            "target": "Neuralink"
+        },
+        {
+            "source": "Elon Musk",
+            "relationship": "LEADS",
+            "target": "The Boring Company"
+        },
+        {
+            "source": "Tesla",
+            "relationship": "OPERATES",
+            "target": "Fremont Factory"
+        },
+        {
+            "source": "Tesla",
+            "relationship": "OPERATES",
+            "target": "Gigafactory Nevada"
+        },
+        {
+            "source": "Tesla",
+            "relationship": "OPERATES",
+            "target": "Gigafactory New York"
+        },
+        {
+            "source": "Tesla",
+            "relationship": "OPERATES",
+            "target": "Gigafactory Shanghai"
+        },
+        {
+            "source": "Tesla",
+            "relationship": "OPERATES",
+            "target": "Gigafactory Texas"
+        },
+        {
+            "source": "Tesla",
+            "relationship": "OPERATES",
+            "target": "Gigafactory Berlin-Brandenburg"
+        },
+        {
+            "source": "Fremont Factory",
+            "relationship": "LOCATED_IN",
+            "target": "California"
+        },
+        {
+            "source": "Gigafactory Nevada",
+            "relationship": "LOCATED_IN",
+            "target": "Nevada"
+        },
+        {
+            "source": "Gigafactory New York",
+            "relationship": "LOCATED_IN",
+            "target": "Buffalo, New York"
+        },
+        {
+            "source": "Gigafactory Shanghai",
+            "relationship": "LOCATED_IN",
+            "target": "Shanghai, China"
+        },
+        {
+            "source": "Gigafactory Texas",
+            "relationship": "LOCATED_IN",
+            "target": "Austin"
+        },
+        {
+            "source": "Gigafactory Berlin-Brandenburg",
+            "relationship": "LOCATED_IN",
+            "target": "Germany"
+        },
+        {
+            "source": "Fremont Factory",
+            "relationship": "PRODUCES",
+            "target": "Model 3"
+        },
+        {
+            "source": "Fremont Factory",
+            "relationship": "PRODUCES",
+            "target": "Model Y"
+        },
+        {
+            "source": "Fremont Factory",
+            "relationship": "PRODUCES",
+            "target": "Tesla Optimus"
+        },
+        {
+            "source": "Gigafactory Nevada",
+            "relationship": "PRODUCES",
+            "target": "Electric Motors"
+        },
+        {
+            "source": "Gigafactory Nevada",
+            "relationship": "PRODUCES",
+            "target": "Powertrains"
+        },
+        {
+            "source": "Gigafactory Nevada",
+            "relationship": "PRODUCES",
+            "target": "Vehicle Batteries"
+        },
+        {
+            "source": "Gigafactory Nevada",
+            "relationship": "PRODUCES",
+            "target": "Powerwall"
+        },
+        {
+            "source": "Gigafactory New York",
+            "relationship": "PRODUCES",
+            "target": "Solar Roof products"
+        },
+        {
+            "source": "Gigafactory New York",
+            "relationship": "PRODUCES",
+            "target": "Solar Panels"
+        },
+        {
+            "source": "Gigafactory New York",
+            "relationship": "PRODUCES",
+            "target": "Electrical Components"
+        },
+        {
+            "source": "Gigafactory Shanghai",
+            "relationship": "PRODUCES",
+            "target": "Model 3"
+        },
+        {
+            "source": "Gigafactory Shanghai",
+            "relationship": "PRODUCES",
+            "target": "Model Y"
+        },
+        {
+            "source": "Gigafactory Texas",
+            "relationship": "PRODUCES",
+            "target": "Model Y"
+        },
+        {
+            "source": "Gigafactory Texas",
+            "relationship": "PRODUCES",
+            "target": "Cybertruck"
+        },
+        {
+            "source": "Gigafactory Berlin-Brandenburg",
+            "relationship": "PRODUCES",
+            "target": "Model Y"
+        },
+        {
+            "source": "Tesla",
+            "relationship": "DEVELOPS",
+            "target": "Solar Roof"
+        },
+        {
+            "source": "Tesla",
+            "relationship": "ACQUIRED",
+            "target": "SolarCity"
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+TESLA: COMPANY, LEADERSHIP, PRODUCTS AND GLOBAL MANUFACTURING
+
+Tesla is a company focused on electric vehicles, energy storage, solar energy, and sustainable energy technologies. Tesla's mission is to accelerate the world's transition to sustainable energy. The company develops products that combine electric transportation, battery storage, and energy generation. Tesla's business connects vehicles, batteries, solar energy, software, manufacturing, and charging infrastructure into a broader sustainable energy ecosystem.
+
+Tesla is headquartered in Texas. Tesla's global headquarters is located at Gigafactory Texas in Austin, Texas. Tesla operates large manufacturing facilities across three continents. Its manufacturing network includes facilities in Fremont, Nevada, New York, Shanghai, Texas, and Berlin-Brandenburg. These facilities support the production of electric vehicles, batteries, energy products, solar products, and other components.
+
+Tesla's manufacturing operations are an important part of its business strategy. The company designs and builds large integrated factories to manufacture vehicles, battery cells, powertrains, energy products, and other components. Tesla's manufacturing facilities use automation, robotics, engineering systems, and production processes to support large-scale manufacturing.
+
+The Fremont Factory is located in Fremont, California. It was Tesla's first factory. Tesla states that the first Model S vehicles rolled off the assembly line at Fremont in 2012. The Fremont Factory produces Model 3, Model Y, and Tesla Optimus. The facility is therefore connected to Tesla through manufacturing and to California through its location.
+
+Gigafactory Nevada is located in Nevada. It is Tesla's first Gigafactory and produces high-volume electric motors, powertrains, vehicle batteries, and Powerwall. The facility is also the official home of Tesla Semi. Gigafactory Nevada therefore connects Tesla's vehicle business with battery production, powertrain manufacturing, and energy storage.
+
+Gigafactory New York is located in Buffalo, New York. The facility builds Solar Roof products, solar panels, and electrical components for Superchargers. This facility connects Tesla's manufacturing operations with solar energy generation and charging infrastructure.
+
+Gigafactory Shanghai is located in Shanghai, China. It is Tesla's first factory outside the United States and produces Model 3 and Model Y vehicles. The facility connects Tesla's global manufacturing network with the Chinese market and international vehicle production.
+
+Gigafactory Texas is located in Austin, Texas. It is Tesla's global headquarters and a major manufacturing facility. The factory is a manufacturing hub for Model Y and is the home of Cybertruck. Gigafactory Texas therefore connects Tesla's corporate headquarters with vehicle manufacturing and Austin, Texas.
+
+Gigafactory Berlin-Brandenburg is Tesla's first European factory. It is located in Germany and produces Model Y vehicles. Tesla also describes the facility as a location that will produce batteries and other products. The facility connects Tesla's manufacturing network with the European market.
+
+Tesla's vehicle history includes several important electric vehicles. The Roadster was Tesla's first product and debuted in 2008. Model S was introduced in 2012. Model X was launched in 2015. Tesla began deliveries of Model 3 in 2017. Tesla unveiled Cybertruck and Model Y in 2019, and Model Y began customer deliveries in early 2020.
+
+The Model S is a premium electric sedan. Model X is an electric SUV. Model 3 is a mass-market electric vehicle. Model Y is a compact SUV. Cybertruck is an electric pickup truck. Tesla Semi is an electric truck designed for commercial transportation. These products connect Tesla's vehicle technology with different types of transportation and customers.
+
+Tesla also develops energy storage products. Its energy products include Powerwall, Powerpack, and Megapack. Powerwall is designed as a home battery. Powerpack is a commercial-scale battery product, while Megapack is designed for utility-scale energy storage. Tesla's energy products connect battery technology with residential, commercial, and utility-scale energy applications.
+
+Tesla's energy business is connected to solar energy. Tesla developed Solar Roof as a solar energy generation product. Solar Roof is connected to Tesla's broader sustainable energy strategy because solar generation can be combined with battery storage and electric vehicles.
+
+Battery technology is important to both Tesla's electric vehicles and energy products. Tesla's manufacturing operations include battery cells, vehicle batteries, powertrains, and energy storage systems. This creates connections between Tesla's manufacturing facilities, battery technology, electric vehicles, and energy storage products.
+
+Elon Musk is a co-founder and the Chief Executive Officer of Tesla. Tesla states that Musk leads product design, engineering, and global manufacturing of the company's electric vehicles, battery products, and solar energy products. Elon Musk therefore has a direct leadership relationship with Tesla and its major product and manufacturing activities.
+
+Elon Musk is also associated with other technology companies. He co-founded and leads SpaceX, Neuralink, and The Boring Company. SpaceX is focused on rockets and spacecraft. Neuralink develops brain-machine interface technology. The Boring Company focuses on tunneling and transportation infrastructure. These organizations create additional relationships around Elon Musk that can be represented in a knowledge graph.
+
+Tesla acquired SolarCity in 2016. SolarCity was a solar installation company, and the acquisition connected Tesla's electric vehicle and energy businesses with solar energy generation. Tesla later released Solar Roof as an energy generation product.
+
+Tesla's global manufacturing network creates many relationships between companies, people, products, facilities, and locations. Tesla is connected to Austin through its headquarters and Gigafactory Texas. Tesla is connected to California through the Fremont Factory. Tesla is connected to Nevada through Gigafactory Nevada. Tesla is connected to New York through Gigafactory New York. Tesla is connected to Shanghai through Gigafactory Shanghai. Tesla is connected to Germany through Gigafactory Berlin-Brandenburg.
+
+These relationships can be represented as a knowledge graph. For example, Elon Musk is connected to Tesla through his leadership role. Tesla is connected to Gigafactory Texas through the manufacturing relationship. Gigafactory Texas is connected to Austin through its location. Tesla is connected to Model Y and Cybertruck because those vehicles are produced at Gigafactory Texas.
+
+Similarly, Tesla is connected to Gigafactory Shanghai, and Gigafactory Shanghai is connected to Model 3 and Model Y through production relationships. Tesla is connected to Gigafactory Nevada, which is connected to vehicle batteries, Powerwall, electric motors, powertrains, and Tesla Semi.
+
+These interconnected facts make Tesla a suitable knowledge domain for GraphRAG. A traditional vector search system may retrieve individual passages about Tesla, Elon Musk, a factory, or a product. A knowledge graph can additionally represent explicit relationships between these entities and allow a retrieval system to follow multiple connections.
+
+For example, a multi-hop question can require the system to connect Elon Musk to Tesla, Tesla to Gigafactory Texas, and Gigafactory Texas to Austin. Another question can require the system to connect Tesla to Gigafactory Shanghai and then to Model 3 or Model Y. A more complex question can require the system to identify a person, follow that person's relationship to Tesla, follow Tesla's relationship to a manufacturing facility, and then identify the location or products associated with that facility.
+
+The combination of entity relationships, manufacturing facilities, products, people, and locations provides a connected knowledge base for testing GraphRAG. The knowledge graph can provide structured relationships while vector retrieval can provide semantically relevant information from the original document.
