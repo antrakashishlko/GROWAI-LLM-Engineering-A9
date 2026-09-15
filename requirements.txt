@@ -1,9 +1,6 @@
-langchain
-langchain-core
-langchain-ollama
-langchain-text-splitters
-sentence-transformers
-neo4j
-langchain-neo4j
-python-dotenv
+requests
 numpy
+python-dotenv
+neo4j
+sentence-transformers
+langchain-text-splitters
