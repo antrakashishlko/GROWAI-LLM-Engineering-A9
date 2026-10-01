@@ -1,3 +1,10 @@
+"""
+This project builds a GraphRAG Knowledge Explorer using Neo4j and Qwen3 via Ollama.
+A Tesla knowledge document is chunked, while entities and relationships are extracted
+and stored as a Neo4j knowledge graph. Graph retrieval is combined with vector retrieval
+using Reciprocal Rank Fusion (RRF) to provide context-aware answers to multi-hop questions.
+"""
+
 # ============================================================
 # 1. Load the Document
 # ============================================================
