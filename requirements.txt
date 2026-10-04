@@ -1,6 +1,9 @@
-requests
-numpy
-python-dotenv
-neo4j
-sentence-transformers
+langchain
+langchain-core
+langchain-ollama
 langchain-text-splitters
+sentence-transformers
+neo4j
+langchain-neo4j
+python-dotenv
+numpy
