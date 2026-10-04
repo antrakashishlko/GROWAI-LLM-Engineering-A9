@@ -1,3 +1,9 @@
+"""
+This script compares Pure Vector RAG with GraphRAG for the same questions.
+It retrieves relevant information using vector similarity and knowledge graph relationships.
+The comparison shows how GraphRAG can improve retrieval for connected and multi-hop questions.
+"""
+
 # ============================================================
 # 1. IMPORTS AND CONFIGURATION
 # ============================================================
